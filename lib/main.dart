@@ -18,6 +18,7 @@ void main() => runApp(MaterialApp(
               letterSpacing: 2.0,
               color: Colors.grey[600],
               // note : can also add custom font family
+              fontFamily: 'IndieFlower',
             ),
           ),
         ),
